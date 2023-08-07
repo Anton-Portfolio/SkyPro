@@ -14,11 +14,9 @@
   <li>провести тестирование</li>
   <li>написать отчет о результатах тестирования</li>
 </ol>
-<blockquote><a href="https://bag-report686.atlassian.net/l/cp/82LgAJ09" target="_blank">Ссылка на проект!</a>
+<blockquote><a href="https://disk.yandex.ru/i/nQUnUSHWmQn5uw" target="_blank">Ссылка на проект!</a>
 
-  логин: bronnikov-av@mail.ru
-  
-пароль: Qwerty686
+
 
 </blockquote>
 
